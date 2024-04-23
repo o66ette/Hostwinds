@@ -3,6 +3,9 @@
 ## Hostwinds 介绍
 Hostwinds是一家提供全面托管服务的公司，自2010年成立以来，凭借其丰富的产品线、卓越的服务器性能、优质的客户支持以及实惠的价格，赢得了广泛的客户喜爱和行业奖项。
 
+![image](https://github.com/o66ette/Hostwinds/assets/167595731/e09d5d0c-8b21-40dc-b925-1092c29e9c84)
+
+
 ## Hostwinds 官网地址
 [www.hostwinds.com](https://www.hostwinds.com/32226.html)
 
